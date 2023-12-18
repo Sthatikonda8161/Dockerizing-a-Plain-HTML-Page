@@ -1,7 +1,7 @@
 # Dockerizing-a-Plain-HTML-Page
 
 ##
-This assignment aims to familiarize yourself with Docker and containerization by Dockerizing a simple HTML page using Nginx as the web server.
+This Project aims to familiarize yourself with Docker and containerization by Dockerizing a simple HTML page using Nginx as the web server.
 
 Install Docker on Ubuntu machine
 ```
