@@ -108,12 +108,20 @@ sudo docker ps
  6. Push the Image on ECR
 
    - Make the public repository to push Image on the ECR
-   - Install AWS CLI and configure with your
+   - Install AWS CLI
 
 ```
 AWS Access Key ID:
-AWS secret Acess Key:
+AWS secret access key:
 Default region name: ap-south-1
 Default output format:
 ```
+  - After configuring your AWS account with in the Ec2.
+    
+7. Push the Image we created to the ECR(Elastic Container Registry) using the push commands.
+![image](https://github.com/Sthatikonda8161/Dockerizing_webserver/assets/136583514/e5e4505a-ac12-4627-9538-9d6445340c1d)
 
+![image](https://github.com/Sthatikonda8161/Dockerizing_webserver/assets/136583514/74586157-4230-4e9e-a97c-13d14623604e)
+
+
+Done.
